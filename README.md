@@ -17,7 +17,7 @@ The Dark Hall, known as SCP-0808, is a place where reality merges with nightmare
 - [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [License](#license)
-- [License](#wikidescription)
+- [Wiki Description](#wikidescription)
 
 ## Installation
 
