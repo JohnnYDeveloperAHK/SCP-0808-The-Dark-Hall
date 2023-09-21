@@ -1,7 +1,7 @@
 # SCP-0808-The-Dark-Hall
 ![background](https://github.com/JohnnYDeveloperAHK/SCP-0808-The-Dark-Hall/assets/11061707/d1328b03-7948-483d-a755-c301541b0ae7)
 
-## Overview ( This description is subject to change, but this is what the project is "supposed" to follow.)
+## Overview ( This description is subject to change, but this is what the project's story is "supposed" to follow.)
 
 [SCP horror game that plunges players into a world of darkness, dread, and enigma. Assume the role of Johnny, a seasoned military veteran with a history of voluntary service for the Special Forces Serbia (SFS). The SCP Foundation has recognized Johnny's unique qualifications and has called upon him to investigate SCP-0808, a classified anomaly deemed too perilous for the unprepared.
 
