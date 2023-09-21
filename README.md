@@ -1,5 +1,5 @@
 # SCP-0808-The-Dark-Hall
-![background](https://github.com/JohnnYDeveloperAHK/SCP-0808-The-Dark-Hall/assets/11061707/d1328b03-7948-483d-a755-c301541b0ae7)
+![background1](https://github.com/JohnnYDeveloperAHK/SCP-0808-The-Dark-Hall/assets/11061707/70af2a42-441d-457b-babc-69c66d259d25)
 
 ## Overview (This description is subject to change, but this is what the project's story is "supposed" to follow.)
 
