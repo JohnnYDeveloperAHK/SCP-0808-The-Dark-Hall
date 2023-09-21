@@ -3,11 +3,11 @@
 
 ## Overview ( This description is subject to change, but this is what the project is "supposed" to follow.)
 
-[first-person horror experience that plunges players into the depths of fear and darkness. In this game, you step into the shoes of Johnny, a part-time military worker and voluntary Operator Military Intelligence for Special Forces Serbia. What begins as a routine exploration of an unknown underground bunker takes a nightmarish turn when you enter the dreaded SCP-0808, known simply as the Dark Hall.
+[SCP horror game that plunges players into a world of darkness, dread, and enigma. Assume the role of Johnny, a seasoned military veteran with a history of voluntary service for the Special Forces Serbia (SFS). The SCP Foundation has recognized Johnny's unique qualifications and has called upon him to investigate SCP-0808, a classified anomaly deemed too perilous for the unprepared.
 
-As Johnny, your only lifeline is your radio, a trusty M1911, and a *classified note that holds undisclosed secrets*. Guided by an enigmatic SCP operator, you venture into the abyss with nothing but your wits and courage. But what awaits you in the inky blackness of SCP-0808 is beyond comprehension.
+Your primary objective is simple: explore the unknown depths of the SCP-0808 bunker and uncover its secrets. Armed with little more than a radio for communication, an M1911 for protection, you must venture into the abyss. But be warned, the path ahead is fraught with terror.
 
-The Dark Hall is shrouded in mystery, and no one knows what truly lurks within its depths. As you navigate the oppressive darkness, you'll encounter unnerving phenomena, eerie sounds, and a malevolent presence that hungers for your fear. Your only goal is to survive, to make it back to the entrance, and to uncover the chilling secrets hidden within the SCP-0808.]
+The Dark Hall, known as SCP-0808, is a place where reality merges with nightmare. As you traverse its desolate corridors, you'll encounter otherworldly phenomena, eerie whispers, and a malevolent presence that hungers for your fear. Your survival depends on your ability to navigate this perilous environment, decipher cryptic clues, and confront the ancient evil that lurks in the shadows.]
 
 ## Table of Contents
 
@@ -17,6 +17,7 @@ The Dark Hall is shrouded in mystery, and no one knows what truly lurks within i
 - [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [License](#license)
+- [License](#wikidescription)
 
 ## Installation
 
@@ -79,3 +80,30 @@ my discord name : [johnny8056]
 [johnny8056]
 
 ! Your feedback and support are greatly appreciated.
+
+## Wiki Description
+
+Item #: SCP-0808
+
+Object Class: Keter
+
+Special Containment Procedures: SCP-0808 is to be sealed and inaccessible to any personnel. Any further exploration of SCP-0808 is strictly prohibited until further notice. Personnel are advised to avoid any information or communication regarding SCP-0808. Any attempts to enter or breach containment will result in immediate disciplinary action.
+
+Description: SCP-0808 is an anomalous entity located within a classified underground bunker. The entrance to the bunker is a deep, seemingly endless hallway shrouded in complete darkness. It is unknown how far the hallway extends, as no exploration has successfully reached its end.
+
+The only known interaction with SCP-0808 occurred during the ill-fated operation on 15.09.2023 involving a subject identified as "Johnny." Johnny, a part-time military worker and voluntary Operator Military Intelligence for Special Forces Serbia, was contacted by [DATA EXPUNGED] to explore the mysterious bunker and its enigmatic hallway.
+
+Equipped with an M1911, a radio, and a classified note containing undisclosed information, Johnny entered the bunker. The bunker's vault door was sealed behind him by [DATA EXPUNGED], leaving him alone in the dark hallway. Johnny maintained communication with [DATA EXPUNGED] via radio throughout the mission.
+
+During the exploration, Johnny reported various unsettling incidents and unknown sounds:
+
+"REDACTED"
+"REDACTED"
+"Uhm, how long is this hallway anyway?"
+"What the hell was that?"
+"OH MY GO-REDACTED"
+After the last transmission, Johnny's radio communication abruptly ceased. His fate remains unknown, and there has been no contact or sighting of him since the vault door closed behind him.
+
+SCP-0808 is classified as Keter due to its high level of threat and the complete lack of information regarding its nature and effects. No evidence exists to explain what happens to individuals who enter SCP-0808, and further operations within the bunker are suspended indefinitely.
+
+All information regarding SCP-0808 is considered highly classified, and any personnel attempting to access this information without proper authorization will face severe consequences. All attempts to breach SCP-0808's containment or investigate its properties are strictly forbidden.
