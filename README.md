@@ -38,16 +38,16 @@ The Dark Hall is shrouded in mystery, and no one knows what truly lurks within i
   
 ## Screenshots
 
-Gun Rise Up Animation
+## Gun Rise Up Animation
 ![gun_riseup_animation](https://github.com/JohnnYDeveloperAHK/SCP-0808-The-Dark-Hall/assets/11061707/2faa1941-3f6e-4801-8c89-5e4d2072c67e)
 
-Gun Idle Animation
+## Gun Idle Animation
 ![gun_idle_animation](https://github.com/JohnnYDeveloperAHK/SCP-0808-The-Dark-Hall/assets/11061707/d8dbbe0d-5be1-4afe-954c-1f7e271248cf)
 
-Gun Movement Animation
+## Gun Movement Animation
 ![gun_moveanimation](https://github.com/JohnnYDeveloperAHK/SCP-0808-The-Dark-Hall/assets/11061707/642f602e-3e8d-4cbf-b137-fc64e42b19c9)
 
-Gun Screenshake Animation
+## Gun Screenshake Animation
 ![gun_screenshake_animation](https://github.com/JohnnYDeveloperAHK/SCP-0808-The-Dark-Hall/assets/11061707/c6d827ec-906f-4e69-ac18-f2a0d55404be)
 
 ## Unimplemented as of 21.09.2023 ( The creature in the dark )
