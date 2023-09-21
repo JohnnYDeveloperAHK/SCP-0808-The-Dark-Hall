@@ -14,6 +14,7 @@
 - [Contributing](#contributing)
 - [License](#license)
 - [Wiki Description](#wikidescription)
+- [Controls](#controls)
 
 ## Installation
 
@@ -24,6 +25,17 @@
 
 [The gameplay is expected to change, as I'm not quite sure about the story and the gameplay itself. For now, you can walk forwards, and nothing will happen as of this version.]
 [In future versions, as of this date 21.09.2023, I could add some similar gameplay, that off of FNAF, like the ballerina from sister location. (At least that's the only thing that comes to mind with this kind of style of a game)]
+
+## Controls ( Subject to Change)
+
+[Space] to start the game
+[W] to move
+[3] to equip the gun
+
+[Alt&F4]
+or
+[ESC] to Exit the game
+
 
 ## Features
 
