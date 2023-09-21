@@ -16,35 +16,44 @@
 
 ## Installation
 
-[Provide detailed instructions on how to install and run your game. Include any prerequisites or dependencies.]
+[For the time being, until the game is compiled, please install autohotkey v1.1 from this website link https://www.autohotkey.com ]
+[Extract the RAR folder/Zip folder anywhere on your desktop, and run the game.]
 
 ## Gameplay
 
-[Explain the core mechanics, controls, and objectives of your game. Describe how to play and any special tips or tricks.]
+[The gameplay for is expected to change, as im unsure for the story and the gameplay itself, For now you can walk forwards, nothing will happen as of this version.]
+[In future versions, as of this date 21.09.2023, i could add some similar gameplay, that off of FNAF. like the ballerina from sister location.]
 
 ## Features
 
-- [List key features and mechanics that make your game stand out.]
-- [Highlight any notable achievements or milestones in development.]
-
+- [Game Intro]
+- [Gun Animations]
+- [Dialog]
+- [Sounds]
+- [Unimplemented but created: as of 21.09.2023 Creature]
+  
 ## Screenshots
 
-[Include screenshots or gifs that showcase your game's visuals and gameplay. Add captions to describe what's happening in each image.]
+![gun_riseup_animation](https://github.com/JohnnYDeveloperAHK/SCP-0808-The-Dark-Hall/assets/11061707/2faa1941-3f6e-4801-8c89-5e4d2072c67e)
 
 ## Contributing
 
-[Explain how others can contribute to your project, whether through bug reporting, feature requests, or code contributions. Include guidelines for submitting pull requests.]
+[This project is completely open source, and if anyone want's to change any code, or add your features into it, you're free to do so.]
+[If you wish for your features to be *featured* in the newer releases of the game, please add me on my discord and we'll make it happen.]
+my discord name : [johnny8056]
+
 
 ## License
 
-[Specify the license for your game, e.g., MIT License, Apache License 2.0. Include any copyright notices.]
+[Autohotkey GNU General Public License 
+[https://www.autohotkey.com/docs/v2/license.htm#GNU_GENERAL_PUBLIC_LICENSE]
 
 ## Acknowledgments
 
-[Thank any individuals, libraries, or tools that have been instrumental in the development of your game.]
+[If any users contributed to the project, they would be featured in the log below.]
 
 ---
 
 [Optional: Provide links to your social media, website, or contact information for further inquiries.]
 
-Enjoy playing [Game Name]! Your feedback and support are greatly appreciated.
+Enjoy trying out the [SCP - 0808 The Dark Hall]! Your feedback and support are greatly appreciated.
