@@ -81,7 +81,7 @@ my discord name : [johnny8056]
 
 ! Your feedback and support are greatly appreciated.
 
-## Wiki Description
+## WikiDescription
 
 Item #: SCP-0808
 
