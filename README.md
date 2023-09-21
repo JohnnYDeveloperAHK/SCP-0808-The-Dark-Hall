@@ -1,9 +1,13 @@
 # SCP-0808-The-Dark-Hall
 ![background](https://github.com/JohnnYDeveloperAHK/SCP-0808-The-Dark-Hall/assets/11061707/d1328b03-7948-483d-a755-c301541b0ae7)
 
-## Overview
+## Overview ( This description is subject to change, but this is what the project is "supposed" to follow.)
 
-[Provide a brief introduction to your game, its concept, and its goals. Highlight its unique features or selling points.]
+[first-person horror experience that plunges players into the depths of fear and darkness. In this game, you step into the shoes of Johnny, a part-time military worker and voluntary Operator Military Intelligence for Special Forces Serbia. What begins as a routine exploration of an unknown underground bunker takes a nightmarish turn when you enter the dreaded SCP-0808, known simply as the Dark Hall.
+
+As Johnny, your only lifeline is your radio, a trusty M1911, and a *classified note that holds undisclosed secrets*. Guided by an enigmatic SCP operator, you venture into the abyss with nothing but your wits and courage. But what awaits you in the inky blackness of SCP-0808 is beyond comprehension.
+
+The Dark Hall is shrouded in mystery, and no one knows what truly lurks within its depths. As you navigate the oppressive darkness, you'll encounter unnerving phenomena, eerie sounds, and a malevolent presence that hungers for your fear. Your only goal is to survive, to make it back to the entrance, and to uncover the chilling secrets hidden within the SCP-0808.]
 
 ## Table of Contents
 
@@ -17,12 +21,12 @@
 ## Installation
 
 [For the time being, until the game is compiled, please install autohotkey v1.1 from this website link https://www.autohotkey.com ]
-[Extract the RAR folder/Zip folder anywhere on your desktop, and run the game.]
+[Extract the RAR folder/Zip folder anywhere on your desktop, and run the game. eg. (The dark hall.ahk)]
 
 ## Gameplay
 
-[The gameplay for is expected to change, as im unsure for the story and the gameplay itself, For now you can walk forwards, nothing will happen as of this version.]
-[In future versions, as of this date 21.09.2023, i could add some similar gameplay, that off of FNAF. like the ballerina from sister location.]
+[The gameplay is expected to change, as im not quite sure for the story and the gameplay itself, For now you can walk forwards, nothing will happen as of this version.]
+[In future versions, as of this date 21.09.2023, i could add some similar gameplay, that off of FNAF. like the ballerina from sister location. (at least that's the only thing that comes to mind with this kind of style of a game)]
 
 ## Features
 
@@ -35,6 +39,13 @@
 ## Screenshots
 
 ![gun_riseup_animation](https://github.com/JohnnYDeveloperAHK/SCP-0808-The-Dark-Hall/assets/11061707/2faa1941-3f6e-4801-8c89-5e4d2072c67e)
+![gun_idle_animation](https://github.com/JohnnYDeveloperAHK/SCP-0808-The-Dark-Hall/assets/11061707/d8dbbe0d-5be1-4afe-954c-1f7e271248cf)
+![gun_moveanimation](https://github.com/JohnnYDeveloperAHK/SCP-0808-The-Dark-Hall/assets/11061707/642f602e-3e8d-4cbf-b137-fc64e42b19c9)
+![gun_screenshake_animation](https://github.com/JohnnYDeveloperAHK/SCP-0808-The-Dark-Hall/assets/11061707/c6d827ec-906f-4e69-ac18-f2a0d55404be)
+
+## Unimplemented as of 21.09.2023
+![it_rises](https://github.com/JohnnYDeveloperAHK/SCP-0808-The-Dark-Hall/assets/11061707/4aa5839c-943c-4d35-b305-e53805f1b492)
+
 
 ## Contributing
 
@@ -54,6 +65,10 @@ my discord name : [johnny8056]
 
 ---
 
-[Optional: Provide links to your social media, website, or contact information for further inquiries.]
+##  My Steam Profile
+[(https://steamcommunity.com/profiles/76561198876758766)]
 
-Enjoy trying out the [SCP - 0808 The Dark Hall]! Your feedback and support are greatly appreciated.
+## My Discord Username
+[johnny8056]
+
+! Your feedback and support are greatly appreciated.
