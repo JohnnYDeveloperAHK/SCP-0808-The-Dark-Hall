@@ -1,13 +1,9 @@
 # SCP-0808-The-Dark-Hall
 ![background](https://github.com/JohnnYDeveloperAHK/SCP-0808-The-Dark-Hall/assets/11061707/d1328b03-7948-483d-a755-c301541b0ae7)
 
-## Overview ( This description is subject to change, but this is what the project's story is "supposed" to follow.)
+## Overview (This description is subject to change, but this is what the project's story is "supposed" to follow.)
 
-[SCP horror game that plunges players into a world of darkness, dread, and enigma. Assume the role of Johnny, a seasoned military veteran with a history of voluntary service for the Special Forces Serbia (SFS). The SCP Foundation has recognized Johnny's unique qualifications and has called upon him to investigate SCP-0808, a classified anomaly deemed too perilous for the unprepared.
-
-Your primary objective is simple: explore the unknown depths of the SCP-0808 bunker and uncover its secrets. Armed with little more than a radio for communication, an M1911 for protection, you must venture into the abyss. But be warned, the path ahead is fraught with terror.
-
-The Dark Hall, known as SCP-0808, is a place where reality merges with nightmare. As you traverse its desolate corridors, you'll encounter otherworldly phenomena, eerie whispers, and a malevolent presence that hungers for your fear. Your survival depends on your ability to navigate this perilous environment, decipher cryptic clues, and confront the ancient evil that lurks in the shadows.]
+[SCP horror game that plunges players into a world of darkness, dread, and enigma. Assume the role of Johnny, a seasoned military veteran with a history of voluntary service for the Special Forces Serbia (SFS). The SCP Foundation has recognized Johnny's unique qualifications and has called upon him to investigate SCP-0808, a classified anomaly deemed too perilous for the unprepared.]
 
 ## Table of Contents
 
@@ -21,13 +17,13 @@ The Dark Hall, known as SCP-0808, is a place where reality merges with nightmare
 
 ## Installation
 
-[For the time being, until the game is compiled, please install autohotkey v1.1 from this website link https://www.autohotkey.com ]
+[For the time being, until the game is compiled, please install autohotkey v1.1 from this website link [Autohotkey Website](https://www.autohotkey.com)]
 [Extract the RAR folder/Zip folder anywhere on your desktop, and run the game. eg. (The dark hall.ahk)]
 
 ## Gameplay
 
-[The gameplay is expected to change, as im not quite sure for the story and the gameplay itself, For now you can walk forwards, nothing will happen as of this version.]
-[In future versions, as of this date 21.09.2023, i could add some similar gameplay, that off of FNAF. like the ballerina from sister location. (at least that's the only thing that comes to mind with this kind of style of a game)]
+[The gameplay is expected to change, as I'm not quite sure about the story and the gameplay itself. For now, you can walk forwards, and nothing will happen as of this version.]
+[In future versions, as of this date 21.09.2023, I could add some similar gameplay, that off of FNAF, like the ballerina from sister location. (At least that's the only thing that comes to mind with this kind of style of a game)]
 
 ## Features
 
@@ -36,36 +32,33 @@ The Dark Hall, known as SCP-0808, is a place where reality merges with nightmare
 - [Dialog]
 - [Sounds]
 - [Unimplemented but created: as of 21.09.2023 Creature]
-  
+
 ## Screenshots
 
-## Gun Rise Up Animation
+### Gun Rise Up Animation
 ![gun_riseup_animation](https://github.com/JohnnYDeveloperAHK/SCP-0808-The-Dark-Hall/assets/11061707/2faa1941-3f6e-4801-8c89-5e4d2072c67e)
 
-## Gun Idle Animation
+### Gun Idle Animation
 ![gun_idle_animation](https://github.com/JohnnYDeveloperAHK/SCP-0808-The-Dark-Hall/assets/11061707/d8dbbe0d-5be1-4afe-954c-1f7e271248cf)
 
-## Gun Movement Animation
+### Gun Movement Animation
 ![gun_moveanimation](https://github.com/JohnnYDeveloperAHK/SCP-0808-The-Dark-Hall/assets/11061707/642f602e-3e8d-4cbf-b137-fc64e42b19c9)
 
-## Gun Screenshake Animation
+### Gun Screenshake Animation
 ![gun_screenshake_animation](https://github.com/JohnnYDeveloperAHK/SCP-0808-The-Dark-Hall/assets/11061707/c6d827ec-906f-4e69-ac18-f2a0d55404be)
 
-## Unimplemented as of 21.09.2023 ( The creature in the dark )
+### Unimplemented as of 21.09.2023 (The creature in the dark)
 ![it_rises](https://github.com/JohnnYDeveloperAHK/SCP-0808-The-Dark-Hall/assets/11061707/4aa5839c-943c-4d35-b305-e53805f1b492)
-
 
 ## Contributing
 
-[This project is completely open source, and if anyone want's to change any code, or add your features into it, you're free to do so.]
-[If you wish for your features to be *featured* in the newer releases of the game, please add me on my discord and we'll make it happen.]
-my discord name : [johnny8056]
-
+[This project is completely open source, and if anyone wants to change any code or add your features into it, you're free to do so.]
+[If you wish for your features to be *featured* in the newer releases of the game, please add me on my discord, and we'll make it happen.]
+My discord name: [johnny8056]
 
 ## License
 
-[Autohotkey GNU General Public License 
-[https://www.autohotkey.com/docs/v2/license.htm#GNU_GENERAL_PUBLIC_LICENSE]
+[Autohotkey GNU General Public License](https://www.autohotkey.com/docs/v2/license.htm#GNU_GENERAL_PUBLIC_LICENSE)
 
 ## Acknowledgments
 
@@ -73,13 +66,13 @@ my discord name : [johnny8056]
 
 ---
 
-##  My Steam Profile
-[(https://steamcommunity.com/profiles/76561198876758766)]
+## My Steam Profile
+[Steam Profile](https://steamcommunity.com/profiles/76561198876758766)
 
 ## My Discord Username
 [johnny8056]
 
-! Your feedback and support are greatly appreciated.
+Your feedback and support are greatly appreciated.
 
 ## WikiDescription
 
