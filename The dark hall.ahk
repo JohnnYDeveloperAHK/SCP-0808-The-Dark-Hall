@@ -209,6 +209,6 @@ SystemCursor(True)
 ExitApp
 
  ; Exit the Application upon pressing Alt and F4
-*~ALT & F4::
+ALT & F4::
 SystemCursor(True)
 ExitApp
