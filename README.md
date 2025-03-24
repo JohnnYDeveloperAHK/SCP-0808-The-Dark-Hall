@@ -1,6 +1,13 @@
 # SCP-0808-The-Dark-Hall
 ![background1](https://github.com/JohnnYDeveloperAHK/SCP-0808-The-Dark-Hall/assets/11061707/70af2a42-441d-457b-babc-69c66d259d25)
 
+## This is a Dead Project, Hasn't been updated since 2 years ago as of this comment, and Won't be updated.
+This sucks ofcourse, but I haven't got enough motivation on the game to finish it, simply because of how hard it is to make a game in the Autohotkey language. The sprites and allot of artwork was selfmade, with the exception of the gun being green-screened and made to several gifs in order to be used within the autohotkey language. As for now, nothing will change and the game is unfinished, there "is" no game, and there's only bad voice acting and somewhat okay artwork without any much content worth playing for "there's nothing to even play".
+
+Rant: 24.03.2025, The Idea was that you would go further down the dark hall, and the further you go weirder and weirder stuff would happen, for example, since you're some kind of "soldier" exploring this dark hall, you would see visions of your past, people you know, people you don't like, and people that like you, but the dark hall alters your memories about them, affecting you mentally. After some time, with cool effect and weird visions and exploring around for lore, you'd find "It", the monster of the Dark Hall, It comes out from the dark, you shoot at it, and it charges at you, and the game ends. This was the whole thing, but i couldn't manage on how to make the hall be visible, and still allow you to move forward within a 2D enviroment, Maybe just maybe, after "10" years or something, i'll come back to this and finish it, but as of now, I have no motivation to finish it, even tho it was fun to code for the start. Sorry for everyone who viewed this and had hope on the Autohotkey Forum, 2200 of you may be dissapointed, but it's already been 2 years, so all I gave here is more info as to why I didn't finish it.
+
+The rest of the Description is below and unchanged, The following above has been added as of 24.03.2025. Thanks for reading :) 
+
 ## Overview (This description is subject to change, but this is what the project's story is "supposed" to follow.)
 
 [SCP horror game that plunges players into a world of darkness, dread, and enigma. Assume the role of Johnny, a seasoned military veteran with a history of voluntary service for the Special Forces Serbia (SFS). The SCP Foundation has recognized Johnny's unique qualifications and has called upon him to investigate SCP-0808, a classified anomaly deemed too perilous for the unprepared.]
